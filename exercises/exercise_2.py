@@ -7,8 +7,8 @@ odd = 0
 
 if num % 2 == 0:
 	even = num + 2
-	print(num, even)
+	print(even)
 
 else:
 	odd = num + 1
-	print(num, odd)
+	print(odd)
