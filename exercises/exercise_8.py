@@ -1,2 +1,3 @@
-# Exercise 8
-# Your solution comes here
+num = int(input("Enter a number: "))
+
+s
